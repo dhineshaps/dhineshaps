@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 👋 Hi, I’m @dhineshaps , Dhinesh Palanisamy- Mainframe Modernization Developer and Machine Learning Enthusiastic.
+- 👀 I’m interested in Learning new things and exploring the new things.
+- 🌱 I’m currently learning Python and Machine Learning.
+- 📫 How to reach me @ dhinesh.palanisamy@yahoo.com
 
 
 ## 🌐 Socials:
