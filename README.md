@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @dhineshaps , Dhinesh Palanisamy- Software Engineer III
-- 👀 I’m interested in Learning new things and exploring Technologies
-- 🌱 I’m currently learning Machine Learning.
+- 👀 I’m interested in learning new things and exploring technologies
 - 📫 How to reach me @ dhinesh.palanisamy@yahoo.com
 - Portal https://thefetquest.streamlit.app/
 
